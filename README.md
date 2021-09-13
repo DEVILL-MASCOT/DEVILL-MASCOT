@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+<img src="Ajmal.jpg" alt="GIF" width="128" height="128"/>
 </p>
  <p align="center">
 <a href="#"><img title="Ajmal-Achu" src="https://img.shields.io/badge/Ajmal Achu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
