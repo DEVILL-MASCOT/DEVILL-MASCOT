@@ -7,6 +7,9 @@
         />
     </a>
 </p>
+
+![My card name](https://cardivo.vercel.app/api?name=Ajmal-Achu&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=ajmal_ibn_shanavas&github=Ajmal-Achu&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+
 <div align="center">
   <p align="center">
 <img src="Ajmalprofile.jpg" alt="GIF" width="128" height="128"/>
