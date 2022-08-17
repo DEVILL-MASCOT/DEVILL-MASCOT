@@ -10,8 +10,6 @@
     </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=DEVILL-MASCOT&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/102029388?s=400&u=c67c55f53dd189c73817620a4c9152c377cd22d0&v=4?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=at.__010&github=DEVILL-MASCOT&twitter=&pattern=leaf&colorPattern=%23eaeaea)
-
 <div align="center">
   <p align="center">
 <img src="DEVILL.jpeg" alt="GIF" width="128" height="128"/>
